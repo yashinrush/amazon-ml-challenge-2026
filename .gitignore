@@ -1,0 +1,23 @@
+# Large Competition Datasets
+dataset/
+output/candidate_pairs.tsv
+*.zip
+*.tar.gz
+*.tsv.gz
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+ENV/
+
+# OS and IDE Metadata
+.DS_Store
+__MACOSX/
+Thumbs.db
+.idea/
+.vscode/
